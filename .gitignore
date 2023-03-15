@@ -1,0 +1,43 @@
+# Operating System Files
+
+*.DS_Store
+Thumbs.db
+
+# Build Files #
+
+bin
+target
+build/
+.gradle
+
+# Eclipse Project Files #
+
+.classpath
+.project
+.settings
+
+# IntelliJ IDEA Files #
+
+*.ipr
+*.iws
+
+
+*.iml
+*.sc
+*.class
+*.log
+*.txt
+sbt.json
+build.properties
+target/
+project/target/
+project/boot/
+dist/
+boot/
+logs/
+out/
+tmp/
+.idea/**
+.idea_modules/
+.DS_STORE
+.cache
