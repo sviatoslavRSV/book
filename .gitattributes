@@ -1,0 +1,11 @@
+*.scala filter=git-crypt diff=git-crypt
+*.java filter=git-crypt diff=git-crypt
+*.sql filter=git-crypt diff=git-crypt
+*.conf filter=git-crypt diff=git-crypt
+*.xml filter=git-crypt diff=git-crypt
+*.txt filter=git-crypt diff=git-crypt
+*.sbt filter=git-crypt diff=git-crypt
+src/** filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
+.gitignore !filter !diff
+.git-crypt !filter !diff
